@@ -1,0 +1,54 @@
+/* Entire Site */
+html * {
+    font-family: Arial Narrow, sans-serif;
+}
+
+a {
+    color: #000000;
+    text-align: center;
+}
+
+/* Text */
+.center {
+    text-align: center;
+}
+.bold {
+    font-weight: 900;
+}
+.mono {
+    font-family: Courier, monospace;
+}
+
+/* Navigation-Bar */
+.navbar {
+    background-color: #000000;
+    overflow: hidden;
+  }
+  .navbar a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .navbar a:hover {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  .navbar a.active {
+    background-color: #5800ff;
+    color: #ffffff;
+  }
+.topleft{
+    font-weight: 900;
+}
+
+/* Footer */
+.footer {
+    position:absolute;
+    width:100%;
+    height:50px;
+    background-color:#000000;
+    color:#ffffff;
+ }
