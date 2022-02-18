@@ -1,28 +1,85 @@
 /* Entire Site */
 html * {
-    font-family: Arial Narrow, sans-serif;
+  font-family: Arial Narrow, sans-serif;
 }
 
 a {
-    color: #000000;
-    text-align: center;
+  color: #000000;
+  text-align: center;
 }
 
 /* Text */
 .center {
-    text-align: center;
+  text-align: center;
 }
 .bold {
-    font-weight: 900;
+  font-weight: 900;
 }
 .mono {
-    font-family: Courier, monospace;
+  font-family: Courier, monospace;
+}
+.white {
+  color: #ffffff;
+}
+
+/* Classes */
+.floatleft {
+  float: left;
+}
+.floatright {
+  float: right;
+}
+
+.boxwow1 {
+  background-color: #262a10;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 0;
+  color: white;
+  height: 300px;
+}
+.boxwow2 {
+  background-color: #54442b;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: white
+}
+.boxwow3 {
+  background-color: #141204;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: white;
+}
+.boxwow4 {
+  background-color: #a9714b;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.boxwow5 {
+  background-color: #262a10;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 0;
+  color: white;
+}
+.boxwow1cred {
+  margin-left: 25%
+}
+.boxwow4cred {
+  margin-left: 25%;
+  text-align: left;
 }
 
 /* Navigation-Bar */
 .navbar {
-    background-color: #000000;
-    overflow: hidden;
+  background-color: #000000;
+  overflow: hidden;
   }
   .navbar a {
     float: left;
@@ -40,15 +97,19 @@ a {
     background-color: #5800ff;
     color: #ffffff;
   }
-.topleft{
-    font-weight: 900;
+  .navbar a.wowactive {
+    background-color: #e8985e;
+    color: #000000;
+  }
+  .topleft{
+  font-weight: 900;
 }
 
 /* Footer */
 .footer {
-    position:absolute;
-    width:100%;
-    height:50px;
-    background-color:#000000;
-    color:#ffffff;
- }
+  position:absolute;
+  width:100%;
+  height:50px;
+  background-color:#000000;
+  color:#ffffff;
+}
