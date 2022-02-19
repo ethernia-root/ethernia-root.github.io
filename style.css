@@ -30,6 +30,59 @@ a {
   float: right;
 }
 
+.column {
+  float: left;
+  width: 50%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.bg {
+  background-color: #000000;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 0;
+  height: 570px;
+}
+.bgprp {
+  background-color: #5800ff;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 0;
+  height: 570px;
+}
+.bgprp2 {
+  color: white;
+}
+.fontodysee {
+  font-family: URW Chancery L, cursive;
+  color: white;
+}
+.bgdsc {
+  background-color: #7289DA;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 0;
+  height: 570px;
+}
+.bggit {
+  background-color: #FC6D27;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 0;
+  height: 570px;
+}
+.bgrdt {
+  background-color: #FF4301;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 0;
+  height: 570px;
+}
+
 .boxwow1 {
   background-color: #262a10;
   padding-top: 1px;
