@@ -2,12 +2,22 @@
 
 [ethernia-root.github.io](https://ethernia-root.github.io)
 
-    Support:
-    You can get Help in the Readme File of the Repository and its Issue Page,
-    as well as unter Social & Contact!
-    
-    ethernia-root.github.io
+```
+	Support:
+	You can get Help in the README File of the Repository and it's Issue Page, or you can...
+	Contact Me:
+	ethernia-root.github.io
+```
+
+# Version
+v.0.0.0 
+*Description.Of.Numbers*
 
 # License
-This Website is published under the GNU General Public License v3.
-A Copy of the GPL is given in this Repo!
+
+
+# Known Issues
+- X
+
+# To-Do
+- Finish literally everything
