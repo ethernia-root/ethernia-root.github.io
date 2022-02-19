@@ -15,7 +15,8 @@ v.0.3.0
 (BETA)
 
 # License
-
+This Website is published under the GNU General Public License v3.
+A Copy of the GPL can be found in this Repository!
 
 # Known Issues
 - X
