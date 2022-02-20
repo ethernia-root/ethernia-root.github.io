@@ -10,7 +10,7 @@
 ```
 
 # Version
-v.0.3.0
+v.0.4.0
 *BigUpdates.SmallUpdates.BugFixes*
 (BETA)
 
